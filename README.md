@@ -1,6 +1,6 @@
 # Ну, погоди! — Telegram Mini App
 
-Классическая советская электронная игра в формате Telegram Web App.
+Classic Soviet handheld game rebuilt as a lightweight Telegram Mini App.
 
 ## Игра
 
@@ -9,6 +9,10 @@
 - **Управление:** касание по углам экрана или клавиши Q/W/A/S
 - **Цель:** поймать как можно больше яиц, не уронив 3
 - **Прогрессия:** каждые 10 очков скорость увеличивается
+
+## Why it exists
+
+A compact example of a Telegram-native interactive product: fast to open, easy to share, and simple to deploy.
 
 ## Технологии
 
@@ -49,6 +53,13 @@ python3 -m http.server 8090
 ```
 
 Откройте: http://localhost:8090
+
+## Good fit for
+
+- Telegram Mini App experiments
+- casual retro game demos
+- lightweight web products inside Telegram
+- fast MVPs where distribution matters more than heavy tech
 
 ## Лицензия
 
